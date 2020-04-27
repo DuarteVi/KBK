@@ -1,0 +1,38 @@
+body{
+    
+}
+section.contener{
+    height: 80%;
+    width: 99%;
+    display: flex; /* or inline-flex */
+}
+
+nav { 
+    width: 8%;
+    display: inline-block;
+    background-color: #4576AE;
+    height: 100%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-right-color:#1A4C86;
+    border-right-style: solid;
+    border-right-width: 5px;
+}
+
+nav div{
+    background-color: rgb(192, 219, 252);   
+    display: block;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+iframe{
+    display: inline-block;
+    width: 90%;
+}

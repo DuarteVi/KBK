@@ -1,0 +1,84 @@
+section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 3%;
+}
+
+#hautDePage{
+    border-style: solid;
+    border-color: #2C7CDE;
+    border-width: 10px;
+    border-radius: 50px 50px 50px 50px;
+    width: 30%;
+    background-color: #ffffff;
+}
+
+#hautDePage a{
+    display: block;
+    margin: 3%;
+    text-align: center;
+}
+
+section header,section footer{
+    width: 99%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: block;
+}
+
+section header div,section footer div{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1%;
+}
+
+
+section header{
+    border-radius: 20px 20px 0px 0px;
+}
+
+section footer{
+    border-radius: 0px 0px 20px 20px;
+}
+
+section img{
+    width: 100%;
+    height: auto;
+    
+}
+
+section figure{
+    border-left-style: solid;
+    border-left-width: 10px;
+    border-left-color: #2C7CDE;
+    border-right-style: solid;
+    border-right-width: 10px;
+    border-right-color: #2C7CDE;
+    background-color: #ffffff;
+}
+
+figcaption{
+    text-align: justify;
+}
+
+section#hautDePage > div{
+    width: 80%;
+    background-color: rgb(192, 219, 252);
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    border-style: solid;
+    border-color: #2C7CDE;
+    border-width: 5px;
+    border-radius: 20px 20px 20px 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

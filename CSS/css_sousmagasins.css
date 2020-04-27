@@ -1,0 +1,15 @@
+h2{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.adress, .tel, .mail{
+    display: block;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+div > div{
+    display: inline-block;
+    vertical-align: top;
+}

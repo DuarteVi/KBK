@@ -1,0 +1,39 @@
+div.grandContenant{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 34%;
+    min-width: 300px;
+}
+
+div.contenant{
+    width: 100%;
+    text-align: start;    
+    margin: 1%;
+    margin-top: 5%;
+}
+
+div.contenu{
+    display: inline-block;
+    vertical-align: top;
+}
+
+i{
+    vertical-align: middle;
+    color: #2C7CDE;
+}
+
+img {
+    width:100px;
+    height:100px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+h1{
+    margin-bottom: 2%;
+}

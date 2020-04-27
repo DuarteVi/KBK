@@ -1,0 +1,62 @@
+
+.informations{
+    padding: 3%;
+    border-radius: 20px 20px 20px 20px; 
+    margin: 2%;
+    border-color: rgb(127, 177, 223);
+    width: 150px;
+}
+
+input.boutonEnvoyer,input.boutonAnnuler{
+    padding: 5%;
+    width: 170px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px 20px 20px 20px;
+    border-color: #0F4995;
+    background-color: #eeeeee;
+    font-weight:bold;
+}
+
+input.boutonEnvoyer{
+    color: #0F4995;
+}
+
+input.boutonAnnuler{
+    color: black;
+}
+
+input.boutonEnvoyer:hover,input.boutonAnnuler:hover{
+    background-color: #ffffff;
+}
+
+input.boutonEnvoyer:active,input.boutonAnnuler:active{
+    background-color: rgba(82, 156, 247, 0.068);
+}
+
+fieldset{
+    border-color: #2C7CDE;
+    border-width: 5px;
+    border-radius: 40px 40px 40px 40px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+fieldset legend{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table
+{
+margin: auto;
+}
