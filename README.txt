@@ -1,4 +1,3 @@
-Page d'accueil du site
 Page d'accueil :
 index.html
 
